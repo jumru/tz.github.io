@@ -1,0 +1,17 @@
+@import './base.css';
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  width: 100%;
+  min-height: 100vh;
+  background: rgb(255,104,0);
+  background: linear-gradient(180deg, #e9c0c0b7 0%, rgba(255, 133, 117, 0.643) 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
